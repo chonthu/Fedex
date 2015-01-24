@@ -1,6 +1,6 @@
-<?php namespace NitMedia\Shipping;
+<?php namespace App\Shipping;
 
-use NitMedia\Shipping\Fedex\Fedex;
+use NitMedia\Fedex\Fedex;
 
 class FedexGateway implements ShippingInterface
 {
