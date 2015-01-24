@@ -1,0 +1,13 @@
+{
+    "name": "nitmedia/fedex",
+    "description": "php fedex class",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "Nithin Meppurathu",
+            "email": "admin@nitmedia.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
