@@ -4,16 +4,21 @@ Fedex
 
 Version 1.0 - Fedex Composer Package
 
-#Usage#
+#Usage
 
-<code>
+Basic usage looks like this:
+
+```php
+<?php
 
 use App\Shipping\FedexShippingDriver;
 
 $fedex = new FedexShippingDriver([ // credentials  ]);
-$fedex->getRates();
 
-</code>
+$fedex->getRates();
+```
+
+#License
 
 The MIT License (MIT)
 
