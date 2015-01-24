@@ -13,7 +13,7 @@ use App\Shipping\FedexShippingDriver;
 $fedex = new FedexShippingDriver([ // credentials  ]);
 $fedex->getRates();
 
-</code
+</code>
 
 The MIT License (MIT)
 
